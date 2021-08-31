@@ -1,6 +1,6 @@
 {
     "name": "cjs-rh",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "React hooks which can be used as utilities",
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
