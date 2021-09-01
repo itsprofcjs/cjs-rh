@@ -10,8 +10,8 @@
     "typings": "dist/index.d.ts",
     "keywords": [
         "react",
-        "bulma",
-        "ui component"
+        "react hooks",
+        "hooks utility functions"
     ],
     "author": {
         "name": "Rupesh Kumar Singh",
